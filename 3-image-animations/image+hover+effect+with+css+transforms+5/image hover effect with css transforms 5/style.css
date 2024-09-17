@@ -14,7 +14,7 @@ body {
   font-family: 'Raleway', sans-serif;
   border-radius: 10px;
   position: relative;
-  overflow: hidden;
+  /*overflow: hidden;*/
 }
 
 .fig img {
@@ -52,7 +52,7 @@ body {
   align-items: center;
   justify-content: center;
   transform: translateY(-20px);
-  opacity: 0;
+  opacity: 0.5;
   transition: all 0.25s ease;
 }
 

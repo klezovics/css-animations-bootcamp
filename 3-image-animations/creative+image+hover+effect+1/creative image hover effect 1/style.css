@@ -16,7 +16,7 @@ body {
   width: 450px;
   height: 300px;
   position: relative;
-  overflow: hidden;
+  /*overflow: hidden;*/
 }
 
 img {

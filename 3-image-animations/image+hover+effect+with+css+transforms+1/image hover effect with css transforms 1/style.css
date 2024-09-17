@@ -29,8 +29,8 @@ body {
 	justify-content: center;
 	align-items: center;
 	color: white;
-	transition: 0.5s;
-	opacity: 0;
+	/*transition: 0.5s;*/
+	opacity: 0.5;
 	background-color: rgba(0,0,0,0)
 }
 

@@ -11,6 +11,8 @@ body {
 	height: 500px;
 	position: relative;
 	overflow: hidden;
+
+	border: 1px solid black;
 }
 
 .container img {
